@@ -7,7 +7,7 @@ render(){
   return (
     <div className="App">
     <h1> Hello Bro!</h1>
-    <p> This my name Saranya</p>
+    <p> This my name RajSekar</p>
     <form>
     <input type="text" id="name" placeholder="           username" required ></input>
     <br/>
